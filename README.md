@@ -1,3 +1,6 @@
+This repo contains ngx-my-form re-written in Svelte. 
+
+
 # create-svelte
 
 Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/main/packages/create-svelte).
